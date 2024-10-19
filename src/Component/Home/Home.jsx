@@ -7,6 +7,7 @@ import WhyChoseUs from '../Why Chose Us/WhyChoseUs'
 import CounterUp from '../Counter Up/CounterUp'
 import TestimonialFeedBack from '../Testimonial/TestimonialFeedback'
 import WhyWithUs from '../Why With Us/WhyWithUs'
+import Footer from '../Footer/Footer'
 
 function Home() {
   return (
@@ -20,6 +21,7 @@ function Home() {
          <div><TestimonialFeedBack/></div>
          <div><WhyWithUs/></div>
          <div><CounterUp/></div>
+         <div><Footer/></div>
       </div>
     </>
   )
